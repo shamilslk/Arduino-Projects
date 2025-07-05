@@ -13,7 +13,7 @@ This project is a simple IC (Integrated Circuit) testing tool built using an Ard
 
 ---
 
-##  Control
+## 🕹️ Control
 
 - Use keypad to enter the ic number(eg: 7400)
 - Click 'A' for the testing and result
@@ -26,7 +26,7 @@ This project is a simple IC (Integrated Circuit) testing tool built using an Ard
 | Arduino UNO           | 1        |
 | Breadboard            | 1        |
 | Jumper Wires          | Many     |
-| 16x2 LCD Display      | 1        |
+| 16x2 LCD Display (I2C)| 1        |
 | I2C Keypad (PCF8574)  | 1        |
 | Logic ICs (7400, etc.)| As needed|
 
