@@ -12,3 +12,9 @@ Displays pass/fail results on the screen and/or serial monitor.
 > 📎 Libraries: `LiquidCrystal`, `Wire`, `LiquidCrystal_I2C`, `I2CKeyPad`
 
 ---
+
+## 📝 License
+
+This repository is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
+
+---
