@@ -4,4 +4,4 @@ This repository contains my Arduino-based embedded projects.
 
 ## 📌 Projects
 
-- [IC_Tester](./IC_Tester)
+- [IC-Tester](./IC_Tester)
