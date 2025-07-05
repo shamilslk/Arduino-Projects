@@ -74,5 +74,3 @@ Connect the LCD and keypad using I2C ports (SDA/SCL), and IC test pins to Arduin
 This project is licensed under the MIT License – see the [LICENSE](../LICENSE) file for details.
 
 © 2025 Shamil K
-
----
