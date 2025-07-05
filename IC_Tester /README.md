@@ -29,7 +29,6 @@ This project is a simple IC (Integrated Circuit) testing tool built using an Ard
 | 16x2 LCD Display      | 1        |
 | I2C Keypad (PCF8574)  | 1        |
 | Logic ICs (7400, etc.)| As needed|
-| LEDs + Resistors      | Optional |
 
 ---
 
