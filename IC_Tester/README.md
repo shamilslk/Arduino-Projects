@@ -4,7 +4,7 @@ This project is a simple IC (Integrated Circuit) testing tool built using an Ard
 
 ## 📌 Features
 
-- Automatically tests standard logic ICs like 7400 (NAND), 7402 (NOR), 7408 (AND), 7432 (OR), etc.
+- Automatically tests standard logic ICs like 7400 (NAND), 7486 (XOR), 7408 (AND), 7432 (OR), etc.
 - Displays status messages on an LCD
 - Input control via an I2C keypad
 - Clear pass/fail feedback using LCD
